@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.users{
+   background-color:#D9AE30;
+   height:840px
+}
+.users input{
+  height:60%;
+  width:40%;
+  margin-top:23px
+}
+/* userlist */
+.users .userl{
+  width:65%
+}
+.users .userl .btnshow{
+  float:right;
+  height: 50px;
+  padding-bottom: 10px;
+  background-color:#123F11;
+  border:none
+}
+.users .userl  .show{
+   background-color: #123F11;
+}
+.users .userl .user{
+  height: 50px;
+  width:60%;
+  padding-left:20px;
+    
+}
+
+
+/* Header */
+.users .header{
+  margin-left:150px
+}
+.users .header button{
+  background-color:#7E8054;
+  color:white;
+  font-weight: 700;
+}
+.users ul{
+list-style-type: none;
+}
+/* Details */
+
+.users .detail{
+  width:40%;
+  margin-top: 70px;
+  margin-right:20px
+  
+}
+.users .detail span{
+  font-weight: bold;
+}
+.users .detail .card{
+  margin-right:30px;
+  margin-top:20px
+}
